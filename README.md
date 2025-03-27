@@ -22,6 +22,7 @@ Labs dealing with API usage and customizing the model will probably be helpful.
 
 Deliverables
 I plan to showcase a video showing the assistant functioning as intended, along with the code repository and tools used to create the project
+
 Rough Timeline:
 -Week 1: Brainstorming, coding and figuring out how everything will work with each other
 -Week 2: Getting the project deployed onto a Raspberry Pi, setting up a possible local interface(?)
