@@ -15,6 +15,7 @@ Resources
 https://pypi.org/project/PyAudio/
 https://alphacephei.com/vosk/ 
 https://pypi.org/project/pyttsx3/ 
+
 I do not have any datasets currently in mind. Perhaps finding a specific dataset to make the LLM more specialized (?)
 Labs dealing with API usage and customizing the model will probably be helpful.
 
