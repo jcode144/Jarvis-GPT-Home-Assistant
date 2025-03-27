@@ -4,9 +4,11 @@ Project which aims to create a smart home assistant based on ChatGPT.
 Jarvis: GPT Home Assistant
 Description of Project
 My project proposal is to develop, test, and create a Raspberry Pi-based smart home assistant that leverages the generative capabilities of ChatGPT to provide responses when spoken to. Ideally, this project will allow me to create a cheap and functional alternative to popular voice-activated smart home assistants such as Google Home and Alexa.
+
 Core features: wakeup word to activate speech to text, ability to transcribe speech into text, input into LLM, and respond with text to speech to user.
 Ideally will be implemented on a Raspberry Pi w/ mic in the final stage
 Will leverage python libraries, open source STT software, OpenAI API, etc. 
+
 I believe this project is worth pursuing because if successful will allow for the creation of a low cost smart home assistant which can be tinkered with and customized more than the ones currently on the market.
 
 Resources
